@@ -3,19 +3,20 @@ from ui import welcome_message,goodbye_message
 from brain import prompts
 instuctions="just type the word(everything in lowercase) you want to learn about"
 command_log={
-    "1":"to shut down the chatbot\n",
-    "2":"to save the conversation\n",
-    "3":"to show the convo history\n",
-    "4":"to delete all the history\n",
-    "5":"to view the command log again\n"
+    "1":"to shut down the chatbot",
+    "2":"to save the conversation",
+    "3":"to show the convo history",
+    "4":"to delete all the history",
+    "5":"to view the command log again"
 }
 def commands(user):
     if user=="1":
         goodbye_message()
 
-        return False
+        return 1
     elif user=="5":
-        return command_log
+        for key, value in command_log.items():
+          print(key,":", value)
     elif user=="2":
 
         print("saved successfully")

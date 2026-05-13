@@ -13,7 +13,9 @@ while True:
     save_convo(user)
 
 
-    if resp==False:
+    if resp==1:
+        with open("convo.txt","a")as file:
+         file.write("___________________session ended here____________________________\n")
         break
     
 
