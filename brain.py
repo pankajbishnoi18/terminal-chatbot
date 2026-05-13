@@ -5,8 +5,8 @@ def prompts(user):
         return knowledge[user]
     else :
         return f"sorry i dont have anything on {user}"
-user=input()
-print(prompts(user))
+        
+
     
 
     

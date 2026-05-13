@@ -1,0 +1,8 @@
+user asked--ai
+ bot replied--Artificial intelligence is the simulation of human intelligence by machines
+user asked--battery
+ bot replied--A battery stores electrical energy and powers electronic devices
+user asked--eye
+ bot replied--Eye is a vital organ present in almost every organism and it helps them to see
+user asked--car
+ bot replied--Car is a mode of transport which comes under the category of personal vehicles, it is a 4 wheeler vehicle

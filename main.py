@@ -1,2 +1,20 @@
 from knowledge import knowledge
-print(knowledge["ai"]) 
+from brain import prompts
+from memory import save_convo
+from ui import welcome_message,goodbye_message
+from commands import commands
+welcome_message()
+print("enter 5 for command log")
+
+while True:
+    user=input()
+    resp=commands(user)
+    print( resp)
+    save_convo(user)
+
+
+    if resp==False:
+        break
+    
+
+
