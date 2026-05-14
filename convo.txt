@@ -1,11 +1,196 @@
-___________________session ended here____________________________
-user asked--car
-bot replied--Car is a mode of transport which comes under the category of personal vehicles, it is a 4 wheeler vehicle
+history was cleared ,no idea when this session started
+user commanded:4
+bot responded:history cleared
+user commanded:3
+bot responded:history was cleared ,no idea when this session started
+user commanded:4
+bot responded:history cleared
+
+user asked--mars
+bot replied--Mars is called the red planet due to the presence of iron oxide on its surface
 user asked--venus
 bot replied--Venus is the hottest planet in the solar system because of its dense atmosphere
-user asked--ai
-bot replied--Artificial intelligence is the simulation of human intelligence by machines
-user asked--eye
-bot replied--Eye is a vital organ present in almost every organism and it helps them to see
+user commanded:3
+bot responded:history was cleared ,no idea when this session started
+user commanded:4
+bot responded:history cleared
+user commanded:3
+bot responded:history was cleared ,no idea when this session started
+user commanded:4
+bot responded:history cleared
+
+user asked--mars
+bot replied--Mars is called the red planet due to the presence of iron oxide on its surface
+user asked--venus
+bot replied--Venus is the hottest planet in the solar system because of its dense atmosphere
+
+user commanded:1
+bot responded:goodbye sir i am going down
+
 ___________________session ended here____________________________
+___________________session started here____________________________
+bot:<function welcome_message at 0x00000251D62BA980>
+ enter 5 for command log or you can ask about anything , just drop the word below
+user commanded:5
+bot responded:{'1': 'to shut down the chatbot', '2': 'to save the conversation', '3': 'to show the convo history', '4': 'to delete all the history', '5': 'to view the command log again'}
+user commanded:3
+bot responded:history was cleared ,no idea when this session started
+user commanded:4
+bot responded:history cleared
+user commanded:3
+bot responded:history was cleared ,no idea when this session started
+user commanded:4
+bot responded:history cleared
+
+user asked--mars
+bot replied--Mars is called the red planet due to the presence of iron oxide on its surface
+user asked--venus
+bot replied--Venus is the hottest planet in the solar system because of its dense atmosphere
+user commanded:3
+bot responded:history was cleared ,no idea when this session started
+user commanded:4
+bot responded:history cleared
+user commanded:3
+bot responded:history was cleared ,no idea when this session started
+user commanded:4
+bot responded:history cleared
+
+user asked--mars
+bot replied--Mars is called the red planet due to the presence of iron oxide on its surface
+user asked--venus
+bot replied--Venus is the hottest planet in the solar system because of its dense atmosphere
+
+user commanded:1
+bot responded:goodbye sir i am going down
+
+___________________session ended here____________________________
+___________________session started here____________________________
+bot:<function welcome_message at 0x00000251D62BA980>
+ enter 5 for command log or you can ask about anything , just drop the word below
+user commanded:5
+bot responded:{'1': 'to shut down the chatbot', '2': 'to save the conversation', '3': 'to show the convo history', '4': 'to delete all the history', '5': 'to view the command log again'}
+
+user commanded:1
+bot responded:goodbye sir i am going down
+
+___________________session ended here____________________________
+___________________session started here____________________________
+bot:<function welcome_message at 0x000002EF779BA5C0>
+ enter 5 for command log or you can ask about anything , just drop the word below
+user commanded:1
+bot responded:goodbye sir i am going down
+
+___________________session ended here____________________________
+___________________session started here____________________________
+bot:<function welcome_message at 0x000002A1642EA5C0>
+ enter 5 for command log or you can ask about anything , just drop the word below
+user commanded:1
+bot responded:goodbye sir i am going down
+
+___________________session ended here____________________________
+___________________session started here____________________________
+bot:<function welcome_message at 0x0000021945BEA5C0>
+ enter 5 for command log or you can ask about anything , just drop the word below
+user commanded:5
+bot responded:{'1': 'to shut down the chatbot', '2': 'to save the conversation', '3': 'to show the convo history', '4': 'to delete all the history', '5': 'to view the command log again'}
+user commanded:3
+bot responded:history was cleared ,no idea when this session started
+user commanded:4
+bot responded:history cleared
+user commanded:3
+bot responded:history was cleared ,no idea when this session started
+user commanded:4
+bot responded:history cleared
+
+user asked--mars
+bot replied--Mars is called the red planet due to the presence of iron oxide on its surface
+user asked--venus
+bot replied--Venus is the hottest planet in the solar system because of its dense atmosphere
+user commanded:3
+bot responded:history was cleared ,no idea when this session started
+user commanded:4
+bot responded:history cleared
+user commanded:3
+bot responded:history was cleared ,no idea when this session started
+user commanded:4
+bot responded:history cleared
+
+user asked--mars
+bot replied--Mars is called the red planet due to the presence of iron oxide on its surface
+user asked--venus
+bot replied--Venus is the hottest planet in the solar system because of its dense atmosphere
+
+user commanded:1
+bot responded:goodbye sir i am going down
+
+___________________session ended here____________________________
+___________________session started here____________________________
+bot:<function welcome_message at 0x00000251D62BA980>
+ enter 5 for command log or you can ask about anything , just drop the word below
+user commanded:5
+bot responded:{'1': 'to shut down the chatbot', '2': 'to save the conversation', '3': 'to show the convo history', '4': 'to delete all the history', '5': 'to view the command log again'}
+user commanded:3
+bot responded:history was cleared ,no idea when this session started
+user commanded:4
+bot responded:history cleared
+user commanded:3
+bot responded:history was cleared ,no idea when this session started
+user commanded:4
+bot responded:history cleared
+
+user asked--mars
+bot replied--Mars is called the red planet due to the presence of iron oxide on its surface
+user asked--venus
+bot replied--Venus is the hottest planet in the solar system because of its dense atmosphere
+user commanded:3
+bot responded:history was cleared ,no idea when this session started
+user commanded:4
+bot responded:history cleared
+user commanded:3
+bot responded:history was cleared ,no idea when this session started
+user commanded:4
+bot responded:history cleared
+
+user asked--mars
+bot replied--Mars is called the red planet due to the presence of iron oxide on its surface
+user asked--venus
+bot replied--Venus is the hottest planet in the solar system because of its dense atmosphere
+
+user commanded:1
+bot responded:goodbye sir i am going down
+
+___________________session ended here____________________________
+___________________session started here____________________________
+bot:<function welcome_message at 0x00000251D62BA980>
+ enter 5 for command log or you can ask about anything , just drop the word below
+user commanded:5
+bot responded:{'1': 'to shut down the chatbot', '2': 'to save the conversation', '3': 'to show the convo history', '4': 'to delete all the history', '5': 'to view the command log again'}
+
+user commanded:1
+bot responded:goodbye sir i am going down
+
+___________________session ended here____________________________
+___________________session started here____________________________
+bot:<function welcome_message at 0x000002EF779BA5C0>
+ enter 5 for command log or you can ask about anything , just drop the word below
+user commanded:1
+bot responded:goodbye sir i am going down
+
+___________________session ended here____________________________
+___________________session started here____________________________
+bot:<function welcome_message at 0x000002A1642EA5C0>
+ enter 5 for command log or you can ask about anything , just drop the word below
+user commanded:1
+bot responded:goodbye sir i am going down
+
+___________________session ended here____________________________
+___________________session started here____________________________
+bot:<function welcome_message at 0x0000021945BEA5C0>
+ enter 5 for command log or you can ask about anything , just drop the word below
+user commanded:5
+bot responded:{'1': 'to shut down the chatbot', '2': 'to save the conversation', '3': 'to show the convo history', '4': 'to delete all the history', '5': 'to view the command log again'}
+
+user commanded:1
+bot responded:goodbye sir i am going down
+
 ___________________session ended here____________________________

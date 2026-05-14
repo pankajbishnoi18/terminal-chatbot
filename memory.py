@@ -1,6 +1,6 @@
 from knowledge import knowledge
 def save_convo(user):
-    if user in knowledge:
+    
      with open("convo.txt","a")as file:
         file.write(
             f"user asked--{user}\n" 
@@ -10,11 +10,9 @@ def save_convo(user):
 
 def del_convo():
     with open ("convo.txt" ,"w") as file:
-        pass
-    print("history cleared")
+        file.write("history was cleared ,no idea when this session started\n")
+    return ("history cleared\n")
 def show_convo():
     with open ("convo.txt","r") as file:
+        print("---------------convo history-------------")
         return file.read()
-
-         
-    

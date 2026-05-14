@@ -1,4 +1,4 @@
 def welcome_message():
-    print("Good morning Sir , how can i assist you today")
+    return (" Good morning Sir , how can i assist you today\n")
 def goodbye_message():
-    print("goodbye sir i am going down")
+    return ("goodbye sir i am going down\n")
