@@ -1,4 +1,5 @@
 from knowledge import knowledge
+from ui import welcome_message,goodbye_message
 import json
 def old_convo():
     with open ("convo.json","r") as file:
@@ -28,6 +29,19 @@ def save_convo(user):
     with open("convo.json","w")as file:
         json.dump(data,file,indent=4)
     return data
+def save_convo_of_commands(user,command_response):
+    old_data=old_convo()
+    with open("convo.json","w") as file:
+            command_data={
+                "user commanded":user,
+                "bot responded":command_response
+            }
+        
+            old_data.append(command_data)
+            json.dump(old_data,file,indent=4)
+    return old_data
+    
+
 
 def show_convo():
     with open ("convo.json","r") as file:
@@ -37,6 +51,33 @@ def del_convo():
     with open("convo.json","w")as file:
         json.dump([],file)
     return "history cleared"
+
+def start_session():
+    old_data=old_convo()
+    with open ("convo.json","w")as file:
+        welcome_data={"new session":"_____________________________________________________________________________________________________________________________________________",
+           "bot":welcome_message(),
+            }
+    
+        old_data.append(welcome_data)
+        json.dump(old_data,file,indent=4)
+    return print(f"bot:{welcome_message()}enter 5 for command log or you can ask about anything , just drop the word below")
+def save_session_end():
+
+    old_data = old_convo()
+
+    with open("convo.json", "w") as file:
+
+        good_bye = {
+            "session ended": "-------------------------------------------------------------------------------------"
+        }
+
+        old_data.append(good_bye)
+
+        json.dump(old_data, file, indent=4)
+   
+def end_session():
+    return goodbye_message()
     
 # def save_convo(user):
     

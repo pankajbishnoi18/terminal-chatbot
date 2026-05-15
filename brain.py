@@ -1,5 +1,5 @@
 from knowledge import knowledge
-from memory import del_convo,show_convo
+from memory import del_convo,show_convo,end_session
 from ui import goodbye_message
 from commands import command_log
 
@@ -13,7 +13,7 @@ def prompts(user):
 def commands(user):
     if user=="1":
         
-        return  f"{goodbye_message()}" 
+        return end_session()
 
         
     elif user=="5":
