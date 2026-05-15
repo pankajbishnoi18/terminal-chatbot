@@ -1,0 +1,13 @@
+[
+    {
+        "user commanded": "4",
+        "bot responded": "history cleared"
+    },
+    {
+        "user commanded": "1",
+        "bot responded": "goodbye sir i am going down"
+    },
+    {
+        "session ended": "-------------------------------------------------------------------------------------"
+    }
+]
